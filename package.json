@@ -1,0 +1,23 @@
+{
+  "name": "heroukulearn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajaprhub/heroukulearn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajaprhub/heroukulearn/issues"
+  },
+  "homepage": "https://github.com/rajaprhub/heroukulearn#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
